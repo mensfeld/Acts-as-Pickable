@@ -1,0 +1,10 @@
+CHANGELOG.rdoc
+Gemfile
+MIT-LICENSE
+Manifest
+README.md
+Rakefile
+init.rb
+lib/acts_as_pickable.rb
+spec/acts_as_pickable_spec.rb
+spec/spec_helper.rb
